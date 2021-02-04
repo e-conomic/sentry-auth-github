@@ -12,7 +12,7 @@ from setuptools import setup, find_packages
 
 
 install_requires = [
-    'sentry>=9.0.0',
+    'sentry>=7.0.0',
 ]
 
 test_requires = [
